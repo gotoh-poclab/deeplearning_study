@@ -3,6 +3,8 @@
 - 他のライブラリーなどは requirements.txtに記載してある。
 - 学習環境は、jupyter notebookでstudynoteのフォルダーに各章のやり方を入れている。
 
+- nbviewerは、githubのjupyter notebookを早く表示させるもの。
+https://kokes.github.io/nbviewer.js/viewer.html
 
 ## 2021/05/19 week0 学び方
 ディープラーニングについて基礎から学んでいく。
@@ -18,4 +20,16 @@
 1-3 変数
 
 1-4 リスト
+
+## 2021/05/26 week2 pythonの基本
+1-5 ディクショナリ
+
+1-6 ブーリアン
+
+1-7 if文
+
+1-8 for文
+
+1-9 関数
+
 
