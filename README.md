@@ -13,23 +13,31 @@ https://kokes.github.io/nbviewer.js/viewer.html
 - 参考図書 Deep Learning pythonで学ぶディープラーニングの理論と実装
 
 ## 2021/05/26 week1 pythonの基本
-1-1 算術計算
+[1-01 算術計算](https://nbviewer.jupyter.org/github/gotoh-poclab/deeplearning_study/blob/main/studynote/1-01%20%E7%AE%97%E8%A1%93%E8%A8%88%E7%AE%97.ipynb)
 
-1-2 データ型
+1-02 データ型
 
-1-3 変数
+1-03 変数
 
-1-4 リスト
+1-04 リスト
 
 ## 2021/05/26 week2 pythonの基本
-1-5 ディクショナリ
+1-05 ディクショナリ
 
-1-6 ブーリアン
+1-06 ブーリアン
 
-1-7 if文
+1-07 if文
 
-1-8 for文
+1-08 for文
 
-1-9 関数
+1-09 関数
+
+# 2021/06/02 week3 クラスとnumpy
+1-10 クラス
+
+1-11 numpyのインポートと算術計算
+
+1-12 numpyのブロードキャストと要素へのアクセス
+
 
 
