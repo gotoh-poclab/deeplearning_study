@@ -39,5 +39,10 @@ https://kokes.github.io/nbviewer.js/viewer.html
 
 1-12 numpyのブロードキャストと要素へのアクセス
 
+1-13 matplotlibの基本
+
+1-14 matplotlibのpyplot
+
+1-15 matplotlibの画像の表示
 
 
