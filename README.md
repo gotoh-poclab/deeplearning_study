@@ -3,6 +3,12 @@
 - 他のライブラリーなどは requirements.txtに記載してある。
 - 学習環境は、jupyter notebookでstudynoteのフォルダーに各章のやり方を入れている。
 
+'''
+conda install jupyter
+conda install -c conda-forge matplotlib
+conda install 
+'''
+
 - nbviewerは、githubのjupyter notebookを早く表示させるもの。
 https://kokes.github.io/nbviewer.js/viewer.html
 
