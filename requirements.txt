@@ -50,6 +50,7 @@ python-dateutil==2.8.1
 pyzmq==22.0.3
 qtconsole==5.1.0
 QtPy==1.9.0
+rise==5.7.1
 Send2Trash==1.5.0
 six==1.16.0
 terminado==0.10.0
