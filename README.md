@@ -12,7 +12,7 @@ conda install
 - nbviewerは、githubのjupyter notebookを早く表示させるもの。
 https://kokes.github.io/nbviewer.js/viewer.html
 
-[jupyter noteまとめ](https://nbviewer.jupyter.org/github/gotoh-poclab/deeplearning_study/tree/main/studynote/)
+[jupyter noteまとめ](https://nbviewer.jupyter.org/github/gotoh-poclab/deeplearning_study/tree/main/studynote_1/)
 
 ## 2021/05/19 week0 学び方
 ディープラーニングについて基礎から学んでいく。
