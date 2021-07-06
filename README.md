@@ -55,4 +55,6 @@ https://kokes.github.io/nbviewer.js/viewer.html
 
 1-15 matplotlibの画像の表示
 
+# 2021/06/16, 23, 30 week5, 6, 7 パーセプトロン
 
+2-01 パーセプトロン
