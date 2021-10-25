@@ -1,4 +1,4 @@
-# deeplearning_study
+ju# deeplearning_study
 - python 3.8
 - 他のライブラリーなどは requirements.txtに記載してある。
 - 学習環境は、jupyter notebookでstudynoteのフォルダーに各章のやり方を入れている。
